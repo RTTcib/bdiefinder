@@ -199,7 +199,13 @@ let sites = [{
     'country': 'France',
     'name': 'Rue du commerce',
     'url': 'https://www.rueducommerce.fr/recherche/%s'
-}, {
+},
+              {
+    'country': 'France',
+    'name': 'Le Denicheur',
+    'url': 'https://ledenicheur.fr/#rparams=ss=%s'
+},
+             {
     'country': 'Italy',
     'name': 'Amazon Italy',
     'url': 'https://www.amazon.it/s/field-keywords=%s'
